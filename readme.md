@@ -2,6 +2,8 @@
 ## A instalação foi feita em uma máquina virtual usando VirtualBox
 
 ### Virtual Box 
+!["Virtualbox"](https://www.megaleechers.com/storage/Oracle-VM-VirtualBox-Icon.png)
+
   
     VirtualBox é um software de virtualização desenvolvido pela empresa Innotek, comprado pela Sun Microsystems, que por fim, foi comprada pela Oracle.
 
@@ -13,14 +15,18 @@
     ### Após a instalação e criação da máquina virtual parao sistema Ubuntu, você deve acessar as configurações da máquina, ir ao sistema, clicar na guia processador e habilitar "Habilitar VT-x/amd-V aninhado".
 
 ### Linux Ubuntu 22.04
+!["Ubuntu"](https://plus.diolinux.com.br/uploads/default/original/2X/5/5fbbe01c492a84e01ec1dc828205e06db2f0a52e.png)
 
     Ubuntu é o nome de um sistema operacional construído a partir do núcleo Linux (Linux Kernel). É um sistema de código aberto baseado nas normas do software livre. 
 
     https://ubuntu.com/download/desktop
 
 ### Docker
+!["Docker"](https://cdn.iconscout.com/icon/free/png-256/docker-3628734-3029959.png)
 
     Docker é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres. Os contêineres são isolados uns dos outros e agrupam seus próprios softwares, bibliotecas e arquivos de configuração.
+    
+    https://desktop.docker.com/linux/main/amd64/docker-desktop-4.10.1-amd64.deb?utm_source=docker&utm_medium=webreferral&utm_campaign=docs-driven-download-linux-amd64
 
 ## Configuraçaõ em instalação de ambiente
 
